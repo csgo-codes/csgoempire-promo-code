@@ -116,17 +116,17 @@ It also includes traditional sports markets like:
 Odds are fair, and bets can be placed using coin balances earned from promo codes.
 
 ## CSGOEmpire Original Games
-Roulette – Classic style with Empire skin (gold)
-Coinflip – High-speed head-to-head format
-Case Battles – Battle with others by opening the same cases
-Crash – Multiplier-style game that grows until it crashes
+1. Roulette – Classic style with Empire skin (gold)
+2. Coinflip – High-speed head-to-head format
+3. Case Battles – Battle with others by opening the same cases
+4. Crash – Multiplier-style game that grows until it crashes
 Each game feeds into your XP and coin reward tiers.
 
 ## CSGOEmpire Payment Methods
-Skin deposits via the Steam inventory
-Cryptocurrency (Bitcoin, Ethereum, Litecoin)
-Withdrawals in skins or crypto
-Peer-to-peer trading is available with proper verification
+1. Skin deposits via the Steam inventory
+2. Cryptocurrency (Bitcoin, Ethereum, Litecoin)
+3. Withdrawals in skins or crypto
+4. Peer-to-peer trading is available with proper verification
 
 ## FAQs
 
