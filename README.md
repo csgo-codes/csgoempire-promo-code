@@ -140,7 +140,7 @@ Each game feeds into your XP and coin reward tiers.
 Enter the code CSMAX on your first login to unlock a free case and bonus coins.
 
 ### What is the CSGOEmpire Casino Promo Code for 2025?
-The current verified working code is top100list.
+The current verified working code is CSMAX.
 
 ### Does CSGOEmpire offer free spins?
 No traditional spins, but free cases and rain events act as random reward features.
