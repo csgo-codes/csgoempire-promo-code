@@ -21,6 +21,12 @@ We walked through the process step by step, and it worked smoothly every time:
 6. Hit "Claim" — a free case is instantly credited to your account.
 The process takes less than a minute and requires no deposit, making it one of the fastest no-risk bonuses on the market.
 
+ ### Additional Promo Codes
+1. [CSGORoll Promo Code](https://github.com/csgo-codes/csgoroll-promo-code)
+2. [Hellcase Promo Code](https://github.com/csgo-codes/hellcase-promo-code)
+3. [CSGO500 Promo Code](https://github.com/csgo-codes/csgo500-promo-code)
+4. [CSGOLuck Promo Code](https://github.com/csgo-codes/csgoluck-promo-code)
+
 ## The CSGOEmpire Referral Code is CSMAX
 We verified the CSMAX code in 2025 across multiple accounts. Each time, it provided a valid free case with no additional steps or payment required. Some cases rewarded us with lower-value skins ($0.60–$2.00), while others included rare drops we immediately sold for coin credit. This code is active, secure, and works in all supported Steam regions.
 
